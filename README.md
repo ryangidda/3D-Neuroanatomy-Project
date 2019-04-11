@@ -1,7 +1,7 @@
 # Creating an immersive 3D digital framework for human neuroanatomy
 This repository houses the source code for the development of an interactive teaching aid for human neuroanatomy, as part of my Part II PDN research project. One of the aims of this project is to develop a teaching resource for use in practical neuroanatomy sessions. We have used the process of photogrammetry to reproduce digital version of real life brain specimens from the Cambridge University anatomy department dissection room. These 3D digital reconstrucitons represent highlt accurate, interactive objects students can use to enhance their learning of a classicaly difficult subject. This repository has been created as a means of updating the functionality of the teaching resource. I hope this will facilitate the creation and evolution of many different commands, in order to produce an effective and powerful teaching tool. 
 
-# Commands currently active
+# Current commands
 Rotation - Using the keyboard inputs 'W', 'A', 'D' and 'S', this allows object rotation. 
 
 Panning - Using mouse left click and drag input this allows perspective pan of the scene. 
